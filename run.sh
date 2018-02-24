@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-npm start
+TIMESTAMP=$(date +%s)
+
+bash -c "npm start &>> testbed/run/$DESKTOP_SESSION-$TIMESTAMP.log"
