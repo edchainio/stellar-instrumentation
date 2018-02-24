@@ -2,4 +2,4 @@
 
 TIMESTAMP=$(date +%s)
 
-bash -c "npm start &>> testbed/run/$DESKTOP_SESSION-$TIMESTAMP.log"
+bash -c "npm start &>> testbed/run/$DESKTOP_SESSION-$SHELL-$TIMESTAMP.log"
