@@ -8,5 +8,4 @@ This repository was forked from, and originally named, [StellarTerm client](http
 
 ### Installation
 
-
 ### Configuration
