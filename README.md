@@ -1,7 +1,11 @@
-# StellarTerm Desktop Client
+# Stellar Instrumentation
 
-This is the [StellarTerm client](https://stellarterm.com/) now in a desktop app format!
+This repository was forked from, and originally named, [StellarTerm client](https://github.com/stellarterm/stellarterm-desktop-client).
 
-To download, go to the [releases page](https://github.com/stellarterm/stellarterm-desktop-client/releases).
+**Its sole purpose is to serve as a learning tool for edChain developers and should not be deployed into a production environment as its runtime environment has been repurposed explicity for testing.**
 
-![image](https://user-images.githubusercontent.com/5728307/35322035-adffc424-009d-11e8-8eb3-5101e6dd7d0e.png)
+---
+
+### Installation
+
+### Configuration
